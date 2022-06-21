@@ -23,3 +23,19 @@ For a financial institution, awarding of loans is a delicate process. Here is a 
     
 5. Loan Management:
     a. Loan monitoring - Is the borrower performing as expected? What casued variations? What are the risks to repayment? How can you protect the institution's position?
+
+
+
+
+
+                   --------------------------------------------------- The 5 C's of Credit --------------------------------------------------
+                   
+                   Character - Who is the company, reputation, and direction being taken?
+                   
+                   Capacity - What is the level of profitability, is capital well managed, is there cash to manage operations & growth.
+                   
+                   Capital - What is the financial structure of the business? Does it have sufficient equity? Can it raise more equity? 
+                   
+                   Collateral - Security the company has to offer? Where is the assets used as security held? Most appropriate security to take?
+                   
+                   Condition - attractiveness of the industry the borrower is in? Competitive advantage? Guidelines and obligations of the loans?
